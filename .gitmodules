@@ -1,0 +1,3 @@
+[submodule "reference/your-project"]
+	path = reference/your-project
+	url = https://github.com/dcretail98/sk-ecom.git
